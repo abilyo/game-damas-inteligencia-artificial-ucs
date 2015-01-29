@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=nodo
+comment0.target=void\ inserir(Nodo)
+comment0.text=\r\n\ Insere\ um\ Nodo\ da\ Lista\ obedecendo\ a\ pol\u00EDtica\ de\ inser\u00E7\u00E3o\ da\ Lista\ em\ particular.\r\n\ \r\n\ @param\ noco\ o\ Nodo\ que\ ser\u00E1\ inserido\ na\ Lista.\r\n
+comment1.params=
+comment1.target=Nodo\ remover()
+comment1.text=\r\n\ Remove\ um\ Nodo\ da\ Lista\ obedecendo\ a\ pol\u00EDtica\ de\ remo\u00E7\u00E3o\ da\ Lista\ em\ particular.\r\n\ \r\n\ @return\ \ \ o\ Nodo\ removido\ ou\ null\ se\ a\ Lista\ estiver\ vazia.\r\n
+numComments=2

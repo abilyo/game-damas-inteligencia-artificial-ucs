@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Nodo\ nodoInicial()
+comment1.params=nodo
+comment1.target=boolean\ verificaObjetivo(Nodo)
+comment2.params=nodo
+comment2.target=Fila\ gerarFilhos(Nodo)
+comment3.params=nodoSolucao
+comment3.target=void\ apresentaSolucao(Nodo)
+numComments=4

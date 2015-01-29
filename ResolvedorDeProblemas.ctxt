@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ResolvedorDeProblemas()
+comment1.params=problema\ fronteira
+comment1.target=boolean\ buscaCega(Problema,\ Lista)
+comment2.params=problema\ fronteira
+comment2.target=boolean\ aEstrela(Problema,\ Lista)
+numComments=3

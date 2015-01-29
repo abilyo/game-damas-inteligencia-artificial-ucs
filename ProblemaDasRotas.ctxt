@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ProblemaDasRotas()
+comment1.params=
+comment1.target=Nodo\ nodoInicial()
+comment2.params=nodo
+comment2.target=boolean\ verificaObjetivo(Nodo)
+comment3.params=nodo
+comment3.target=Fila\ gerarFilhos(Nodo)
+comment4.params=nodoSolucao
+comment4.target=void\ apresentaSolucao(Nodo)
+numComments=5

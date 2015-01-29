@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=JogoDosNumeros()
+comment1.params=
+comment1.target=Nodo\ nodoInicial()
+comment2.params=nodo
+comment2.target=boolean\ verificaObjetivo(Nodo)
+comment3.params=nodo
+comment3.target=Fila\ gerarFilhos(Nodo)
+comment4.params=estado
+comment4.target=int\ h1(Estado)
+comment5.params=estado
+comment5.target=int\ h2(Estado)
+comment6.params=nodoSolucao
+comment6.target=void\ apresentaSolucao(Nodo)
+numComments=7

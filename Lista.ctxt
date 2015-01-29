@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Lista()
+comment0.text=\r\n\ Construtor\ de\ Lista\ que\ inicializa\ a\ lista\ com\ um\ ArrayList;\r\n
+comment1.params=nodo
+comment1.target=void\ inserir(Nodo)
+comment1.text=\r\n\ Insere\ um\ Nodo\ da\ Lista\ obedecendo\ a\ pol\u00EDtica\ de\ inser\u00E7\u00E3o\ da\ Lista\ em\ particular.\r\n\ \r\n\ @param\ noco\ o\ Nodo\ que\ ser\u00E1\ inserido\ na\ Lista.\r\n
+comment2.params=
+comment2.target=Nodo\ remover()
+comment2.text=\r\n\ Remove\ um\ Nodo\ da\ Lista\ obedecendo\ a\ pol\u00EDtica\ de\ remo\u00E7\u00E3o\ da\ Lista\ em\ particular.\r\n\ \r\n\ @return\ \ \ o\ Nodo\ removido\ ou\ null\ se\ a\ Lista\ estiver\ vazia.\r\n
+comment3.params=umEstado
+comment3.target=boolean\ pesquisar(Estado)
+comment3.text=\r\n\ Consulta\ uma\ lista\ para\ verificar\ se\ um\ determinado\ Estado\ est\u00E1\ presente\ em\ algum\ Nodo\ dela\ oou\ n\u00E3o.\r\n\ \r\n\ @return\ \ \ true\ se\ o\ Estado\ aparece\ em\ algum\ Nodo;\ false\ se\ n\u00E3o\ aparece\r\n
+comment4.params=
+comment4.target=boolean\ vazia()
+comment4.text=\r\n\ Consulta\ uma\ lista\ para\ verificar\ se\ est\u00E1\ ou\ n\u00E3o\ vazia\ (quantidade\ de\ elementos\ \=\=\ 0)\r\n\ \r\n\ @return\ \ \ true\ se\ est\u00E1\ vazia;\ false\ se\ n\u00E3o\ est\u00E1\r\n
+comment5.params=
+comment5.target=int\ tamanho()
+numComments=6

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ estadoInicial()
+comment1.params=
+comment1.target=void\ estadoFinal()
+comment10.params=coluna
+comment10.target=void\ setBrancoColuna(int)
+comment11.params=
+comment11.target=void\ mostra()
+comment2.params=
+comment2.target=EstadoDosNumeros\ novoParaCima()
+comment3.params=
+comment3.target=EstadoDosNumeros\ novoParaBaixo()
+comment4.params=
+comment4.target=EstadoDosNumeros\ novoParaEsquerda()
+comment5.params=
+comment5.target=EstadoDosNumeros\ novoParaDireita()
+comment6.params=outroEstado
+comment6.target=boolean\ equals(Estado)
+comment7.params=
+comment7.target=int[][]\ getNumeros()
+comment8.params=numeros
+comment8.target=void\ setNumeros(int[][])
+comment9.params=linha
+comment9.target=void\ setBrancoLinha(int)
+numComments=12
